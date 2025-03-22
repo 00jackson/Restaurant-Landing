@@ -143,7 +143,7 @@ const Hero = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 1, duration: 0.8 }}
         >
-          <a href="#menu" className="text-gray-300 font-xl">↓ Scroll Down</a>
+          <a href="#menu" className="text-gray-300 font-medium">↓ Scroll Down</a>
         </motion.div>
       </div>
     </section>
