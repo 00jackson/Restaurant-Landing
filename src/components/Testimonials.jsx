@@ -58,7 +58,7 @@ const Testimonials = () => {
             transition={{
               repeat: Infinity,
               ease: "linear",
-              duration: 40
+              duration: 25
             }}
           >
             {[...testimonials, ...testimonials].map((item, index) => (
